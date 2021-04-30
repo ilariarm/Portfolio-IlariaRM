@@ -117,3 +117,9 @@ p {
     justify-content: center;
   }
 }
+
+@media (max-width: 576px) {
+  .email-link {
+    font-size: 20px;
+  }
+}
