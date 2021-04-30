@@ -112,9 +112,10 @@ p {
   }
 }
 @media (max-width: 576px) {
-  .primary-link {
-    display: flex;
-    justify-content: center;
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 40px;
   }
 }
 
