@@ -86,10 +86,3 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-img {
-  width: 660px;
-  height: 300px;
-  float: left;
-  background-size: cover;
-  object-fit: scale-down;
-}
